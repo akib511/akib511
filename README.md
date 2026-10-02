@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github-banner.png" alt="Shahariar Hossen Akib - GitHub Banner" width="100%" />
+</p>
+
 # Hi, I'm Shahariar Hossen Akib
 
 ### Frontend Developer • Next.js Learner • Computer Technology Student
