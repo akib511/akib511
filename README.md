@@ -1,5 +1,10 @@
 <p align="center">
-  <img src="./github-banner.png" alt="Shahariar Hossen Akib - GitHub Banner" width="100%" />
+  <img
+    src="./github-banner.png"
+    alt="Shahariar Hossen Akib - GitHub Banner"
+    width="100%"
+    height="300"
+  />
 </p>
 
 # Hi, I'm Shahariar Hossen Akib
