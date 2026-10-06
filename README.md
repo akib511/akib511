@@ -56,7 +56,10 @@ Currently, I'm focusing on **JavaScript, React, and Next.js**. I enjoy building 
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=akib511&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
+  <img
+    src="https://streak-stats.demolab.com/?user=akib511&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
+    alt="GitHub Streak Stats"
+  />
 </p>
 
 ---
